@@ -1,0 +1,109 @@
+
+> server@1.0.0 dev
+> nodemon src/index.ts
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: ts,json[39m
+[32m[nodemon] starting `ts-node src/index.ts`[39m
+[dotenv@17.3.1] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+Server listening on port 3001
+User connected: 7eDLdHU9xiEEzZ4oAAAF
+User connected: hEg1kVz7XZHgzFETAAAG
+User connected: av3PqxtJXnhkdcqYAAAH
+User connected: tOHIIuiqI88Jl95PAAAI
+User connected: V3c1v1_i3BxxVTsmAAAJ
+User connected: T0qzKDyM4LePyYAgAAAL
+User connected: E4DSssAE7102bntWAAAN
+User connected: d1iwOQjHLOduHneSAAAP
+User connected: cOb0YSsmcGRLwWn1AAAR
+User disconnected: T0qzKDyM4LePyYAgAAAL
+User connected: HVgV_BncFIZPkaUVAAAT
+User disconnected: E4DSssAE7102bntWAAAN
+User connected: zhouOFmbvC2V75w2AAAV
+User disconnected: zhouOFmbvC2V75w2AAAV
+User connected: aMURW-ezOpDaf6xMAAAX
+User disconnected: aMURW-ezOpDaf6xMAAAX
+User connected: OOLkFhveEZlNkwoaAAAZ
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `ts-node src/index.ts`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `ts-node src/index.ts`[39m
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+Server listening on port 3001
+User connected: NjnyZPnWzPMJEZfGAAAE
+User connected: 3ObV_ST-8hCcKSqiAAAF
+User connected: AgYXzcE6JiRmqe2MAAAG
+User connected: qrVdNOxvuuIrUrBKAAAH
+User connected: UJTWvh9HWRV0dCtjAAAL
+User connected: KhfYF4jb31Mep_skAAAM
+User connected: p_xGaEprt6OUgU3BAAAN
+User connected: 85syZ_-shwo9-NAjAAAQ
+User connected: lVPWC6E8Q-GV3UpoAAAR
+User disconnected: p_xGaEprt6OUgU3BAAAN
+User connected: c-e2OwjeO7MY8zW_AAAT
+User disconnected: c-e2OwjeO7MY8zW_AAAT
+User connected: vFQ9LldnaasdO7_EAAAV
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `ts-node src/index.ts`[39m
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+Server listening on port 3001
+User connected: 3WsyJm31jTg-fgLoAAAH
+User connected: lCnqtYw85DiDKGXeAAAK
+User connected: tX55Rt7Tf9uJMsQPAAAL
+User connected: 6MzVfsq_j4JzNtSjAAAM
+User connected: -Tc5dpGgDQoLO_dpAAAN
+User connected: DnLYsCdQD21qisMAAAAO
+User connected: lQUu6GzcMJEo2nZjAAAP
+User connected: peHWHV5-UiuYYpVmAAAQ
+User connected: IY1ouvtF7Qv_Wmv5AAAR
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `ts-node src/index.ts`[39m
+[dotenv@17.3.1] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+Server listening on port 3001
+User connected: uELkghx5BMm5skCNAAAH
+User connected: TQ9FWK3mzrsl0wV_AAAK
+User connected: krr2Q79y7EeF2BtJAAAL
+User connected: edLn97Buy2mi6jUqAAAM
+User connected: Yxq3V5_KdnInMyxaAAAN
+User connected: 8n9-2Y-s6JBDCl7HAAAO
+User connected: 4yG7lt2mBQtlO1-jAAAP
+User connected: PmXwCqQKq3zltIq0AAAQ
+User connected: 09M11ZoQfIKJxmS5AAAR
+User disconnected: Yxq3V5_KdnInMyxaAAAN
+User connected: GNs5Em8IqLN3fdGAAAAT
+User disconnected: GNs5Em8IqLN3fdGAAAAT
+User connected: h0axSWfHptSaeP22AAAV
+User disconnected: edLn97Buy2mi6jUqAAAM
+User connected: 2ZdMoEQ6xJaCdNt2AAAX
+User disconnected: uELkghx5BMm5skCNAAAH
+User connected: rKANMmHlUSL-pAgRAAAZ
+User disconnected: 2ZdMoEQ6xJaCdNt2AAAX
+User connected: ZAtuKjerXfZ-EkjUAAAb
+User disconnected: ZAtuKjerXfZ-EkjUAAAb
+User disconnected: rKANMmHlUSL-pAgRAAAZ
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `ts-node src/index.ts`[39m
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+Server listening on port 3001
+User connected: IhbL98jYi-lXZQ9MAAAE
+User connected: DtFzTQ3JK2seD6K0AAAH
+User connected: oeVMpxw9snSXje2JAAAJ
+User connected: kxbDYrZf5coknJW9AAAK
+User connected: RYMf0yzVpO0kydHMAAAL
+User connected: Tt6K8TwH3OdxTThKAAAM
+User connected: azmi3zP2gjbB9g_4AAAN
+User connected: Q4mR9nAsTMYLke2BAAAP
+User connected: eqxnXvyllvRXTQuuAAAR
+User disconnected: IhbL98jYi-lXZQ9MAAAE
+User connected: gJMH_lZirb2efcWbAAAT
+User disconnected: gJMH_lZirb2efcWbAAAT
+User disconnected: kxbDYrZf5coknJW9AAAK
+User disconnected: RYMf0yzVpO0kydHMAAAL
+User disconnected: Tt6K8TwH3OdxTThKAAAM
+User disconnected: oeVMpxw9snSXje2JAAAJ
+User disconnected: azmi3zP2gjbB9g_4AAAN
+User disconnected: DtFzTQ3JK2seD6K0AAAH
+User disconnected: Q4mR9nAsTMYLke2BAAAP
+User disconnected: eqxnXvyllvRXTQuuAAAR
